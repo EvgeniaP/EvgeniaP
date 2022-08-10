@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+[![codewars](https://www.codewars.com/users/EvgeniaP/badges/large)](https://www.codewars.com/users/EvgeniaP) 
+
 
 <!--
 **EvgeniaP/EvgeniaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
